@@ -1,7 +1,9 @@
 ---
-layout: home
-search_exclude: true
-image: images/logo.png
+toc: true
+layout: post
+description: A minimal example of using markdown with fastpages.
+categories: [markdown]
+title: 테스트로 써보기~ 
 ---
 
 # 짠짠.. 
